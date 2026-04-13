@@ -1,0 +1,7 @@
+opencv-python>=4.6.0
+numpy>=1.23
+torch>=1.13
+ultralytics>=8.0.0
+pyyaml
+matplotlib
+mediapipe
